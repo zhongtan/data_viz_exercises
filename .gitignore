@@ -1,2 +1,5 @@
 # ignore compiled bytecode
 *.pyc
+
+# ignore graphics files
+*.svg
